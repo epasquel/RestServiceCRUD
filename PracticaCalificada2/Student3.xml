@@ -1,0 +1,6 @@
+<Student xmlns="http://schemas.datacontract.org/2004/07/PracticaCalificada2">
+  <ApellidoMaterno>Risco</ApellidoMaterno>
+  <ApellidoPaterno>Zamudio</ApellidoPaterno>
+  <Edad>31</Edad>
+  <Nombre>Jose</Nombre>
+</Student>

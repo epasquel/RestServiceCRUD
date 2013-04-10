@@ -1,0 +1,4 @@
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\PracticaCalificada2\bin\PracticaCalificada2.dll
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\PracticaCalificada2\bin\PracticaCalificada2.pdb
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\PracticaCalificada2\obj\Debug\PracticaCalificada2.dll
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\PracticaCalificada2\obj\Debug\PracticaCalificada2.pdb

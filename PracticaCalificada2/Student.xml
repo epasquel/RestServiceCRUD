@@ -1,0 +1,6 @@
+<Student xmlns="http://schemas.datacontract.org/2004/07/PracticaCalificada2">
+  <ApellidoMaterno>Paucar</ApellidoMaterno>
+  <ApellidoPaterno>Pasquel</ApellidoPaterno>
+  <Edad>30</Edad>
+  <Nombre>Ebert</Nombre>
+</Student>

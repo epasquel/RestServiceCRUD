@@ -1,0 +1,4 @@
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\StudentClient\bin\Debug\StudentClient.exe
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\StudentClient\bin\Debug\StudentClient.pdb
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\StudentClient\obj\x86\Debug\StudentClient.exe
+D:\UPC\2013_00\Modulo II\DSD\PracticaCalificada2\StudentClient\obj\x86\Debug\StudentClient.pdb

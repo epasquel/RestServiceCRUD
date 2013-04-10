@@ -1,0 +1,6 @@
+<Student xmlns="http://schemas.datacontract.org/2004/07/PracticaCalificada2">
+  <ApellidoMaterno>Izidio</ApellidoMaterno>
+  <ApellidoPaterno>Da Silva Escobar</ApellidoPaterno>
+  <Edad>32</Edad>
+  <Nombre>Alonso</Nombre>
+</Student>
